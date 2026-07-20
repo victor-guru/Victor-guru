@@ -1,3 +1,5 @@
+![Banner] (banner.png)
+
 🎯 Data Analyst | Power BI | Excel | SQL  
 
 🚀 About Me
