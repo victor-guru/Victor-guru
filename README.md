@@ -1,4 +1,4 @@
-![Banner] (banner.png)
+![Banner](banner.png)
 
 🎯 Data Analyst | Power BI | Excel | SQL  
 
